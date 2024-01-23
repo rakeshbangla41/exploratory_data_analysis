@@ -11,7 +11,7 @@ In this project, I have performed Exploratory Data Analysis (EDA) on the given m
 
 Python Libraries used:  
 
-a) Pandas and Numpy for data analysis and manipulation  
+a) Pandas and NumPy for data analysis and manipulation  
 b) Matplotlib and Seaborn for data visualization  
 
 
