@@ -14,6 +14,7 @@ Python Libraries used:
 a) Pandas and NumPy for data analysis and manipulation  
 b) Matplotlib and Seaborn for data visualization  
 
+I have uploaded the Python notebook (.ipynb file)   
 
 ### What I have learned by doing this project:   
 
