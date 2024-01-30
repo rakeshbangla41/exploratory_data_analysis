@@ -31,4 +31,4 @@ I have uploaded the Python notebook (.ipynb file)
 7)	1D and 2D scatter plots, Line plot  
 8)	Correlation between different variables  
 9)	some important Statistics and Digital Marketing concepts   
-10)	some solutions to important questions like best selling products and category, sales amount from different countries, most successful marketing campaign, etc.
+
