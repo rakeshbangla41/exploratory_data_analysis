@@ -10,10 +10,10 @@ As a Data Analyst, I have been given the task to perform EDA and come up with us
 
 ### Project Description:  
 
-In this project, I have performed Exploratory Data Analysis (EDA) on the given marketing camapign dataset using Python programming language. I have used the following Python libraries:     
+In this project, I have performed Exploratory Data Analysis (EDA) on the given marketing camapign dataset using Python programming language. I have used the following Python libraries: 
 
-    a)	Pandas and NumPy for data analysis and manipulation  
-    b)	Matplotlib and Seaborn for data visualization  
+a)	Pandas and NumPy for data analysis and manipulation  
+b)	Matplotlib and Seaborn for data visualization  
 
 The objective is to analyse the dataset and draw meaningful insights about the marketing campaigns. This analysis will help the company to understand its customer demographics and purchase behaviour, revenue from each category, the correlation between features, and the acceptance rate of marketing campaigns.   
 
