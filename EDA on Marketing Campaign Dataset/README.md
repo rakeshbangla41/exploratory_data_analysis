@@ -10,9 +10,10 @@ As a Data Analyst, I have been given the task to perform EDA and come up with us
 
 ### Project Description:  
 
-In this project, I have performed Exploratory Data Analysis (EDA) on the given marketing camapign dataset using Python programming language. I have used the following Python libraries:  
-a)	Pandas and NumPy for data analysis and manipulation  
-b)	Matplotlib and Seaborn for data visualization  
+In this project, I have performed Exploratory Data Analysis (EDA) on the given marketing camapign dataset using Python programming language. I have used the following Python libraries:     
+
+    a)	Pandas and NumPy for data analysis and manipulation  
+    b)	Matplotlib and Seaborn for data visualization  
 
 The objective is to analyse the dataset and draw meaningful insights about the marketing campaigns. This analysis will help the company to understand its customer demographics and purchase behaviour, revenue from each category, the correlation between features, and the acceptance rate of marketing campaigns.   
 
@@ -38,10 +39,3 @@ I have uploaded the Python notebook (.ipynb file)
     d)	data distribution and skewness of the data  - right-skewed distribution and left-skewed distribution  
     e)	correlation between different variables    
 5)	data visualization techniques – histogram and Probability Density Function (PDF), 1D and 2D scatter plots, line plot, box-plot, correlation heatmap
-  
-
-7)	Skewness of the data   
-8)	1D and 2D scatter plots, Line plot  
-9)	Correlation between different variables  
-10)	some important Statistics and Digital Marketing concepts   
-
