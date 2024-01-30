@@ -3,7 +3,7 @@
 
 ### Problem Statement:
 
-An online retail company which sells food, beverage, and other accessories has recently ran some Digital Marketing Campaigns. Now, it wants to know the performance of its campaigns and the hidden trends and patterns of customer behaviour. I have been tasked to perform EDA and come up with useful insights.   
+An online retail company which sells food, beverage, and other accessories has recently ran some Marketing Campaigns. Now, it wants to know the performance of its campaigns and the hidden trends and patterns of customer behaviour. I have been tasked to perform EDA and come up with useful insights.   
 
 ### Project Description:
 
