@@ -5,7 +5,7 @@ Exploratory Data Analysis (EDA) is a process of examining the data to find hidde
 
 I have used Python and its libraries -   1) Pandas and NumPy for data analysis and manipulation, 2) Matplotlib and Seaborn for data visualization.       
  
-In this project, I have done EDA on Marketing Campaign Dataset.   
+In this project, I have done EDA on Marketing Campaign Dataset. Please click this link to view the analysis: [EDA on Marketing Campaign Dataset](https://github.com/rakeshbangla41/exploratory_data_analysis/tree/main/EDA%20on%20Marketing%20Campaign%20Dataset)  
 
 I have uploaded the related Python Notebook (.ipynb file).  
 
