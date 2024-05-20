@@ -19,8 +19,10 @@ The objective is to analyse the dataset and draw meaningful insights about the m
 
 These insights would help the marketing team to design an effective marketing strategy to maximize the profit for the next campaign.    
   
+I have uploaded both the iPython notebook (.ipynb file) and the PDF version of the project.  
 
-I have uploaded the Python notebook (.ipynb file)   
+You can view the project here: [EDA on Marketing Campaign (iPython notebook)](https://github.com/rakeshbangla41/exploratory_data_analysis/blob/main/EDA%20on%20Marketing%20Campaign%20Dataset/EDA_on_marketing_campaign_dataset.ipynb) , [EDA on Marketing Campaign (PDF file)](https://github.com/rakeshbangla41/exploratory_data_analysis/blob/main/EDA%20on%20Marketing%20Campaign%20Dataset/EDA_on_marketing_campaign_dataset.pdf)
+
 
 
 ### What I have learned by doing this project:   
